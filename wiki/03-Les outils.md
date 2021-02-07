@@ -56,7 +56,7 @@ ___
 
 ## 📑 Ressources spécialisées
 
-> Les Feuilles de changement concernent les thèmes. 
+> Les ressources spécialisées concernent les thèmes. 
 
 Les ressources spécialisées peuvent nous donner un point de vue sur les tendances des pratiques sur un axe de veille.
 
