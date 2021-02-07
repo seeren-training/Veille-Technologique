@@ -15,7 +15,7 @@ L'identification est l'étape permettant de désigner des axes de veille.
 
 > Découvrir quand le besoin s'en fait: une approche possible est de ne pas perdre de temps de production à assurer une veille sans besoin réel.
 
-C'est au moment ou vous vous engagez sur un objectif métier que l'axe de veille se détermine. Pendant que vous travailler sur le rapprochement de cet objectif il faudra procéder à des concessions sur la productivitée à ce moment la afin d'identifier vore thématique soulevée comme sujet de veille.
+C'est au moment ou vous vous engagez sur un objectif métier que l'axe de veille se détermine. Pendant que vous travailler sur le rapprochement de cet objectif il faudra procéder à des concessions sur la productivité à ce moment la afin d'identifier votre thématique soulevée comme sujet de veille.
 
 ### 🏷️ **Anticipation**
 
@@ -35,15 +35,15 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Collectivement, identifier des thématiques puis des outils en fonction de vos compétences métier. Reportez votre identificaiton sous forme de listing au format libre. Discutons-en.
+Collectivement, identifier des thématiques puis des outils en fonction de vos compétences métier. Reportez votre identification sous forme de listing au format libre. Discutons-en.
 
 ___
 
 ## 📑 Priorisation
 
-La session de veille peut ne pas couvrir l'ensemble des thémes et outils.
+La session de veille peut ne pas couvrir l'ensemble des thèmes et outils.
 
-La priorisation se fait en fonction de la thématique qui intevient le plus souvent, et donc **le risque qui intervient le plus fréquement d'être confronté à une évolution** des pratiques.
+La priorisation se fait en fonction de la thématique qui intervient le plus souvent, et donc **le risque qui intervient le plus fréquemment d'être confronté à une évolution** des pratiques.
 
 ___
 
