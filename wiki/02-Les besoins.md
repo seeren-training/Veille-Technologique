@@ -23,11 +23,11 @@ Une autre approche consiste à régulièrement effectuer une veille sur des axes
 
 Il faut identifier deux échelles quand aux axes de la veille.
 
-- Thématique
+#### Thématique
 
 Sur une thématique précise, l'approche et les pratiques, outils peuvent varier. Il vous faut identifier une thématique réunissant des outils concrets de productivité.
 
-- Outil
+#### Outil
 
 Un outil est un process détaillé, un logiciel ou tout autre outil métier par lequel vous atteignez vos objectifs métiers. En fonction de la thématique, relevez tous les outils que vous utilisez.
 

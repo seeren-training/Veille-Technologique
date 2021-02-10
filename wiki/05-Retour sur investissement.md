@@ -10,9 +10,7 @@ ___
 
 Les conclusions de la phase d'analyse doivent être diffusés à vos collaborateurs.
 
-Un outil d'analyse collégial avec une road map interne peut être mise en place, une page dédiée sur le site de l'organisation ou un blog est également une bonne solution.
-
-Afin de créer des évènements rythmant le travail, des sessions de présentation de veille peuvent se mettre en place.
+Un outil d'analyse collégial avec une road map interne peut être mise en place, une page dédiée sur le site de l'organisation ou un blog est également une bonne solution. Afin de créer des évènements rythmant le travail, des sessions de présentation de veille peuvent se mettre en place.
 
 ___
 
